@@ -1,0 +1,32 @@
+[
+    {
+    "productId": 1,
+    "productCode": "cnd-56",
+    "productName": "Garden Cart",
+    "releaseDate": "March 18, 2021",
+    "description": "15 gallon capacity rolling garden",
+    "price": 32.34,
+    "starRating": 4.2,
+    "imageUrl": "file:///home/ram/data/angular/july-27/BigPic/src/assets/download.jpeg"
+  },
+  {
+    "productId": 2,
+    "productName": "Garden Cart12 from service",
+    "productCode": "cnd-12",
+    "releaseDate": "March 18, 2021",
+    "description": "15 gallon capacity rolling garden",
+    "price": 2.3,
+    "starRating": 2.3,
+    "imageUrl": "file:///home/ram/data/angular/july-27/BigPic/src/assets/download.jpeg"
+  },
+  {
+    "productId": 3,
+    "productName": "3rd items",
+    "productCode": "cnd-12",
+    "releaseDate": "March 18, 2021",
+    "description": "15 gallon capacity rolling garden",
+    "price": 2.3,
+    "starRating": 2.3,
+    "imageUrl": "file:///home/ram/data/angular/july-27/BigPic/src/assets/download.jpeg"
+  }
+]
